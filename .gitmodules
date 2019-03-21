@@ -15,7 +15,7 @@
 	url = https://github.com/eosdac/memberclient.git
 [submodule "eos"]
 	path = eos
-	url = https://github.com/EOS-Mainnet/eos.git
+	url = https://github.com/jbuck84/eos.git
 [submodule "eosio.cdt"]
 	path = eosio.cdt
 	url = https://github.com/EOSIO/eosio.cdt.git
